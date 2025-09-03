@@ -112,7 +112,7 @@ Manage Bus Stops:
 
 bash
 
-git clone https://github.com/Vyshnavi/Bus-Ticket-Reservation-System-CapstoneProject.git
+git clone https://github.com/Prem-5i6/Bus-Ticket-Reservation-System.git
 
 cd bus-reservation-system
 
